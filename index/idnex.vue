@@ -1,5 +1,5 @@
 <template>
-  <div>我是m绕太阳asterwer分sdjf 支的代码4</div>
+  <div>我是m绕太阳asterwerfgh 分sdjf 支的代码4</div>
 </template>
 
 <script>
